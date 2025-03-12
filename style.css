@@ -9,9 +9,10 @@ header{
     color: #fff;
     padding: 20px;
 }
-header h1{
+.logo{
     font-size: 22px;
     margin: 0;
+    color: black;
 }
 nav{
     height: 50px;
